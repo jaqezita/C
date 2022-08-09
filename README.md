@@ -1,3 +1,3 @@
 # C
 
- Exercícios em linguagem C 
+ Prática de exercícios em linguagem C 
