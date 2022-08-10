@@ -22,9 +22,10 @@ void	ft_putchar(char c)
 }
 
 /*
-int main (char c)
+int main ()
 {
-	ft_putchar(c);
+	ft_putchar('a');
+	write(1, "\n", 1);
 	return 0;
 }
 */
