@@ -29,11 +29,11 @@ int	ft_strlen(char *str)
 }
 
 
-void	ft_recursive_write_int(int index)  // função para converter e escrever inteiros com write
+void	ft_recursive_write_int(int index)  //Função para converter em char e escrever inteiros com write
 {
 	char	position;
 
-	if (index / 10 == 0) //ponto de parada da recursividade 
+	if (index / 10 == 0) //Ponto de parada da recursividade 
 	{
 		position = (index % 10) + '0';
 		write (1, &position, 1);
