@@ -37,7 +37,7 @@ int	main(void)
 
 	printf ("%d\n", ft_str_is_uppercase("str"));		//0
 
-	printf ("%d\n", ft_str_is_uppercase(""));			//1
+	printf ("%d\n", ft_str_is_uppercase(""));		//1
 
 	printf ("%d\n", ft_str_is_uppercase("ADSAQ"));		//1
 
@@ -51,7 +51,7 @@ int	main(void)
 
 	printf ("%d\n", ft_str_is_uppercase("24511"));		//0
 
-	printf ("%d\n", ft_str_is_uppercase(" "));			//0
+	printf ("%d\n", ft_str_is_uppercase(" "));		//0
 
 	printf ("%d\n", ft_str_is_uppercase("!@da14"));		//0
 	return (0);
