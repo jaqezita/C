@@ -12,7 +12,7 @@
 
 // Escreva uma função que ordene uma matriz de inteiros em ordem crescente. 
 
-#include<stdio.h>
+//#include<stdio.h>
 
 void	ft_sort_int_tab(int *tab, int size);
 
