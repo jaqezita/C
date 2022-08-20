@@ -37,7 +37,7 @@ int	main(void)
 
 	printf ("%d\n", ft_str_is_lowercasse("str"));		//1
 
-	printf ("%d\n", ft_str_is_lowercasse(""));			//1
+	printf ("%d\n", ft_str_is_lowercasse(""));		//1
 
 	printf ("%d\n", ft_str_is_lowercasse("ADSS"));		//0
 
@@ -51,7 +51,7 @@ int	main(void)
 
 	printf ("%d\n", ft_str_is_lowercasse("24511"));		//0
 
-	printf ("%d\n", ft_str_is_lowercasse(" "));			//0
+	printf ("%d\n", ft_str_is_lowercasse(" "));		//0
 
 	printf ("%d\n", ft_str_is_lowercasse("!@da14"));	//0
 	return (0);
