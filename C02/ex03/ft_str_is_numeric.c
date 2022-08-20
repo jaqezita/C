@@ -41,7 +41,7 @@ int	main(void)
 
 	printf ("%d\n", ft_str_is_numeric("ADSS"));		//0
 
-	printf ("%d\n", ft_str_is_numeric("TSusA"));	//0
+	printf ("%d\n", ft_str_is_numeric("TSusA"));		//0
 
 	printf ("%d\n", ft_str_is_numeric("s1tr"));		//0	
 
@@ -49,11 +49,11 @@ int	main(void)
 
 	printf ("%d\n", ft_str_is_numeric("1str"));		//0
 
-	printf ("%d\n", ft_str_is_numeric("24511"));	//1
+	printf ("%d\n", ft_str_is_numeric("24511"));		//1
 
 	printf ("%d\n", ft_str_is_numeric(" "));		//0
 
-	printf ("%d\n", ft_str_is_numeric("!@da14"));	//0
+	printf ("%d\n", ft_str_is_numeric("!@da14"));		//0
 	return (0);
 }
 */
