@@ -12,7 +12,7 @@
 
 // Escreva uma função que mostre todas as diferentes combinações de dois números entre 0 e 99, em ordem crescente.
 
-#include<unistd.h>
+//#include<unistd.h>
 
 void	ft_print_comb2(void);
 
