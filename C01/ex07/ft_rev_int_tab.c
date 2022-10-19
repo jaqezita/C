@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que inverta a ordem dos elementos de uma matriz de inteiros.
-
 //#include<stdio.h>
 
 void	ft_rev_int_tab(int *tab, int size);

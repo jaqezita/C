@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma que mostre um a um os caracteres de uma string na ela. 
-
 #include<unistd.h>
 
 void	ft_putstr(char*str);

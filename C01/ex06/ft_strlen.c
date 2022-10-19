@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que contenha o número de caracteres em uma string de caracteres que retorne ao número encontrado. 
-
 #include<unistd.h>
 
 int	ft_strlen(char *str);

@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que troque o conteúdo de dois inteiros cujos endereços são dados em parâmetros.
-
 //#include<stdio.h>
 
 void	ft_swap(int *a, int *b);

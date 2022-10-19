@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função ft_div_mod. Essa função divide os dois parâmetros a e b e armazena o resultado no int apontado por div. Ela também armazena o resto da divisão de a e b no int apontado por mod.
-
 //#include<stdio.h>
 
 void	ft_div_mod(int a, int b, int *div, int *mod);

@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que tenha um ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para ponteiro para int em parâmetro e dê ao int valor de 42.
-
 //#include<stdio.h>
 
 void	ft_ultimate_ft(int *********nbr);
