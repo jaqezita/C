@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Reproduzir de forma idêntica o funcionamento da função strcpy (man strcpy).
-
 //#include <stdio.h>
 
 char	*ft_strcpy(char *dest, char *src);

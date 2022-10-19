@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que deixe todas as letras em maiuscúlo.
-
 //#include<stdio.h>
 
 char	*ft_strupcase(char *str);

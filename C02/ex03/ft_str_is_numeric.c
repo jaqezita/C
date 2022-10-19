@@ -10,9 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que retorne 1 se a string passada como parâmetro só contiver números e retorne 0 se a função contiver outros tipos de caracteres. 
-// Deverá retornar 1 se for uma string for vazia.
-
 //#include<stdio.h>
 
 int	ft_str_is_numeric(char *str);

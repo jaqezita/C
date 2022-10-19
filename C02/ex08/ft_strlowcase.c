@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que deixe todas as letras em minúsculo.
 
 #include<stdio.h>
 

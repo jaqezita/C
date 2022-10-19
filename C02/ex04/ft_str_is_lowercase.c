@@ -10,9 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que retorne 1 se a string passada como parâmetro só contiver caracteres alfabéticos minúsculos e retorne 0 se a função contiver outros tipos de caracteres.
-// Deverá retornar 1 se a str for uma string vazia. 
-
 //#include<stdio.h>
 
 int	ft_str_is_lowercasse(char *str);
