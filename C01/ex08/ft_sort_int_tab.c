@@ -27,17 +27,17 @@ void	ft_sort_int_tab(int *tab, int size)
 	while (position < size - 1)  //percorre as posições
 	{ 
 		index = 0;
-		while (index < size - 1) //compara as posições 
+		while (index < size - 1) //percorre os indices  
 		{
-			if(tab[index] > tab[index + 1])	//realiza as trocas necessárias
+			if(tab[index] > tab[index + 1])	//compara as posições 
 			{
 				aux = tab[index];
-				tab[index] = tab[index + 1];
+				tab[index] = tab[index + 1];	//realiza as trocas necessárias
 				tab[index + 1] = aux;
 			}
-		index++;
+		index++;	//incrementa os indices do vetor
 		}
-	position++;
+	position++;		//incrementa as posições do vetor
 	}
 }
 
