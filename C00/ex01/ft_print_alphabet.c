@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//Escreva uma função que mostre o alfabeto em minúsculo em apenas uma linha, em ordem crescente, começando pela letra 'a'. 
-
 #include <unistd.h>
 
 void	ft_print_alphabet(void);

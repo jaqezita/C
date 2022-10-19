@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que mostre todos os números em uma única linha em ordem crescente.
-
 #include<unistd.h>
 
 void	ft_print_numbers(void);

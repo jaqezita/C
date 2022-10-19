@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que mostre, em ordem crescente, todas as diferentes combinações de três números diferentes em ordem crescente - sim, a repetição é proposital.
-
 #include<unistd.h>
 
 void	ft_print_comb(void);

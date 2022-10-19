@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Escreva uma função que mostre o caractere passado como parâmetro.
-
 #include <unistd.h>
 
 void	ft_putchar(char c);
